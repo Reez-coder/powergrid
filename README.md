@@ -15,18 +15,18 @@ Power Balance: Maintains supply-demand equilibrium at each bus,
 Generator Constraints: Ensures generation stays within min-max limits
 
 # Visualization: Plots the network structure & optimized power flow
-# How It Works
-1️⃣ Define the Network:
+# How It Works <br>
+1️⃣ Define the Network:<br>
 
 Nodes (Buses) represent locations in the power grid
-Edges (Lines) represent transmission paths with power limits
+Edges (Lines) represent transmission paths with power limits<br>
 2️⃣ Introduce Generators:
 
-Define generation capabilities & cost functions
+Define generation capabilities & cost functions<br>
 3️⃣ Optimize Power Flow:
 
 Minimize total cost while meeting demand
-Ensure grid stability with power conservation constraints
+Ensure grid stability with power conservation constraints<br>
 4️⃣ Solve & Visualize:
 
 
