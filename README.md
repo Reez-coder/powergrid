@@ -7,13 +7,11 @@ Welcome to Power Grid Optimization, a Python-based energy management model desig
 This optimization model represents a small-scale power grid using a directed graph where nodes are buses and edges are power transmission lines. The objective? Ensure power balance while minimizing generation costs and import/export expenses.
 
  # Key Features
-Graph-based Power Network: Uses NetworkX to model power buses and transmission lines
-Optimization with Pyomo: Implements power flow constraints and economic dispatch
-Cost Function: Considers generation cost, import/export cost, and transfer limits
-Grid Constraints:
-
-Line Flow Limits: Keeps power flow within safe ratings
-Power Balance: Maintains supply-demand equilibrium at each bus
+Graph-based Power Network: Uses NetworkX to model power buses and transmission lines,
+Optimization with Pyomo: Implements power flow constraints and economic dispatch,
+Cost Function: Considers generation cost, import/export cost, and transfer limits,
+Line Flow Limits: Keeps power flow within safe ratings,
+Power Balance: Maintains supply-demand equilibrium at each bus,
 Generator Constraints: Ensures generation stays within min-max limits
 
 # Visualization: Plots the network structure & optimized power flow
