@@ -31,10 +31,10 @@ Ensure grid stability with power conservation constraints
 
 
 📊 Results & Visualization are shown below in the graph
-Once solved, the model provides:
-📌 Total Cost Breakdown (Generation + Import/Export Costs) = 208.400.<br>
-📌 Power Generated at Each Bus = 0.14
-📌 Power Flow on Each Transmission Line = 0.03257
+Once solved, the model provides:<br>
+📌 Total Cost Breakdown (Generation + Import/Export Costs) = 208.400 <br>
+📌 Power Generated at Each Bus = 0.14<br>
+📌 Power Flow on Each Transmission Line = 0.03257<br>
 
 ![output graph](https://github.com/user-attachments/assets/ee9ec7c2-5352-4396-a6d2-f0ed8fec8ea7)
 
