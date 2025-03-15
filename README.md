@@ -36,4 +36,6 @@ Once solved, the model provides:
 📌 Power Generated at Each Bus
 📌 Power Flow on Each Transmission Line
 
+![Alt text](powergrid/output graph.jpeg)
+
 
