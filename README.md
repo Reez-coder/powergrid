@@ -16,21 +16,20 @@ Generator Constraints: Ensures generation stays within min-max limits
 
 # Visualization: Plots the network structure & optimized power flow
 # How It Works <br>
-1️⃣ Define the Network:<br>
+1 Define the Network:<br>
 
 Nodes (Buses) represent locations in the power grid
 Edges (Lines) represent transmission paths with power limits<br>
-2️⃣ Introduce Generators:
+2️ Introduce Generators:
 
 Define generation capabilities & cost functions<br>
-3️⃣ Optimize Power Flow:
+3️ Optimize Power Flow:
 
 Minimize total cost while meeting demand
 Ensure grid stability with power conservation constraints<br>
-4️⃣ Solve & Visualize:
+4️ Solve & Visualize:
 
-
-📊 Results & Visualization are shown below in the graph
+Results & Visualization are shown below in the graph
 Once solved, the model provides:<br>
 📌 Total Cost Breakdown (Generation + Import/Export Costs) = 208.400 <br>
 📌 Power Generated at Each Bus = 0.14<br>
